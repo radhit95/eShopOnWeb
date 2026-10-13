@@ -9,7 +9,7 @@ env:
   REGION1: westus3
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: feafd324-dea1-4368-9004-c25134d0c56b
-  WEBAPP-NAME: AZURE_CREDENTIALS
+  WEBAPP-NAME: devops-webapp-region1-66154565
 
 jobs:
   #Build, test and publish .net web project in repository
